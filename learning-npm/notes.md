@@ -1,7 +1,7 @@
-BASIC NPM
-node -v --> check node version
-npm init -->create a package.json
-npm install express -->install express
+BASIC NPM  
+node -v --> check node version  
+npm init -->create a package.json  
+npm install express -->install express  
 npm install babel-cli babel-preset-stage-0 babel-prest-es2015 --save-dev --> save local project only, dev dependencies are use for dev only not included in production like babel which compiles es6 where current browser understands
 npm install -g react --> install globally
  npm install create-react-app -g --> cli to create react app
